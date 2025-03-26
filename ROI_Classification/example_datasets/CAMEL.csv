@@ -1,0 +1,2 @@
+train_path,train_label,val_path,val_label,test_path,test_label
+/path/to/train.png,0,/path/to/val.png,0,/path/to/test.png,0

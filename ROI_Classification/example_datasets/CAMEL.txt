@@ -1,0 +1,2 @@
+Normal,0
+Tumor,1
